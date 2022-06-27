@@ -122,7 +122,8 @@ figure {
 
 #locations {
   background-image: url("/resources/images/locations-background.jpeg");
-  background-size: 100% 100%;
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   max-width: 1200px;
   min-height: 500px;
